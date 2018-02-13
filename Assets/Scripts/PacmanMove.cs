@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+//吃豆人的脚本
 public class PacmanMove : MonoBehaviour
 {
     //吃豆人的移动速度
